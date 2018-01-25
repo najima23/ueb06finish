@@ -1,0 +1,3 @@
+/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/CMakeFiles/ueb06naji.dir

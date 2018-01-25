@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ueb06naji"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ueb06naji">
+				<Option output="/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/ueb06naji" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/najimajaadari/Desktop/ueb06naji/header"/>
+					<Add directory="/Users/najimajaadari/Desktop/ueb06naji/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 ueb06naji"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ueb06naji/fast">
+				<Option output="/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/ueb06naji" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/najimajaadari/Desktop/ueb06naji/header"/>
+					<Add directory="/Users/najimajaadari/Desktop/ueb06naji/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 ueb06naji/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/najimajaadari/Desktop/ueb06naji/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/database.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/datastructure.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/datetime.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/list.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/menu.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/sort.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/teams.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/header/tools.h">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/database.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/datetime.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/list.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/main.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/menu.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/sort.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/teams.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/tools.c">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/xml/team.xml">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/src/xml/teams.xml">
+			<Option target="ueb06naji"/>
+		</Unit>
+		<Unit filename="/Users/najimajaadari/Desktop/ueb06naji/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
